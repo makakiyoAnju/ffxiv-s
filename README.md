@@ -5,10 +5,10 @@ I originally just used the default codes that came with the overlay files of Rai
 
 You can also open up the _readme.html_ once you have it download for more information.
 
-You can download ACT **[here](https://advancedcombattracker.com/download.php)**. If you need the FFXIV plugin for ACT, you can find it **[here](https://github.com/ravahn/FFXIV_ACT_Plugin)** <br />
-Here is a guide on how to install ACT and get it working with FFXIV: **https://gist.github.com/TomRichter/e044a3dff5c50024cf514ffb20a201a9**
-
 **NOTE:** I have not tested the timer.html with any sort of special spelltimer plugin for ACT.
+
+## More information
+You can download ACT **[here](https://advancedcombattracker.com/download.php)**. If you need the FFXIV plugin for ACT, you can find it **[here](https://github.com/ravahn/FFXIV_ACT_Plugin)**. Here is a guide on how to install ACT and get it working with FFXIV: click **[here](https://gist.github.com/TomRichter/e044a3dff5c50024cf514ffb20a201a9)**
 ______
 ###### Recoded overlay by makakiyoAnju. Original overlay by Rainbowmage.
 
