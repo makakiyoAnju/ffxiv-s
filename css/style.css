@@ -1,0 +1,32 @@
+/*
+	this is the main style for everything for all the .html files (ideally, parse.html and timer.html)
+	if you know what you are doing with css, feel free to mess around with the codings and such. if not, don't mess with it.
+*/
+
+* {
+	font-family: Meiryo;
+	font-size: 9px;
+}
+
+hr {
+	border: 0;
+	background: #DED7BE;
+	height: 1px;
+}
+
+body, html {
+	margin: 0;
+}
+
+html {
+	height: 100%;
+	overflow: hidden;
+	background-color: transparent;
+}
+
+.resizeHandle {
+	background-image: url(../../images/handle.png);
+	background-position: bottom right;
+	background-repeat: no-repeat;
+	box-sizing: border-box;
+}
