@@ -8,7 +8,7 @@ Here's what the overlay I recoded to be: <br />
 
 You can also open up the _readme.html_ once you have it download for more information.
 
-**NOTE:** I have not tested the timer.html with any sort of special spelltimer plugin for ACT.
+**NOTE:** I have not tested the timer.html with any sort of special spelltimer plugin for ACT. And I couldn't get a preview of the _timer.html_ for you guys to see, because I only did test with really short duration of certain actions/abilities. But I will say it doesn't look too bad.
 
 ## More information
 You can download ACT **[here](https://advancedcombattracker.com/download.php)**. If you need the FFXIV plugin for ACT, you can find it **[here](https://github.com/ravahn/FFXIV_ACT_Plugin)**. <br />
