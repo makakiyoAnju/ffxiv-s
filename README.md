@@ -1,4 +1,4 @@
-# ffxiv-s
+# ffxiv-s Overlay skin by makakiyoAnju
 Skin for ACT Overlay plugin
 NOTE: If you do not have the font installed onto your computer, go to the extra folder and open up the file, "meiryo.ttc"
 
