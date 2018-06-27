@@ -1,6 +1,9 @@
 # ffxiv-s Overlay skin
 ###### Skin for ACT Overlay plugin
 
+To download, click that button that says "Clone or download" then choose "Download ZIP"
+_____
+
 I originally just used the default codes that came with the overlay files of Rainbowmage and just fix and changed a few things to make it quite easier to control and know where everything are. This skin allows you to use the _parse.html_ for parsing dps and _timer.html_ for your spelltimers.
 
 Here's what the overlay I recoded to be: <br />
